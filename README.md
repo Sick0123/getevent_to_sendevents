@@ -5,7 +5,7 @@ Das getevent_to_sendevents.py Skript ist ein praktisches Werkzeug, das aufgezeic
 
 # Warum das Skript?
 - getevent gibt Hex-Werte aus → nicht direkt nutzbar für sendevent.
-- sendevent benötigt Dezimalwerte → Umwandlung notwednig.
+- sendevent benötigt Dezimalwerte → Umwandlung notwendig.
 - Zusätzliche Anpassungen am Sendevent.sh notwendig, damit die Befehle direkt ausgeführt werden können
 - Lösung: Umwandlung per Skript
 
